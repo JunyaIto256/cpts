@@ -30,3 +30,5 @@ subu()
 iroiroaru
 maitake
 kaenntake
+
+enokidake
