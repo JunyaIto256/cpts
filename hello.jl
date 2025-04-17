@@ -29,3 +29,4 @@ subu()
 
 iroiroaru
 maitake
+kaenntake
