@@ -1,7 +1,8 @@
 a=1
 b=2
-c=3
 
-d=a+b+c 
+e=5
+
+d=a+b+e
 
 println(d)
