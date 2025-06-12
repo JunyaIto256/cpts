@@ -7,4 +7,5 @@ import Mypackage: myiseven
     @test myiseven(3) == false
 end
 
+
 nothing # test実行時に標準出力に大量のメッセージが出ないようにするおまじない
