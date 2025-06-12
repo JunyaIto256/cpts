@@ -1,0 +1,7 @@
+name = "AnotherMypackage"
+uuid = "c73f49cd-c492-40aa-ab8d-1210083cd7db"
+authors = ["JunyaIto <ito.23571113@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Mypackage = "dee63474-e0a5-4112-864c-9ec00896d81f"
