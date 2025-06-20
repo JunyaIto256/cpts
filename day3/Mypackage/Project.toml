@@ -3,12 +3,6 @@ uuid = "ffd682bc-81ac-4419-a148-c5b84eaf816e"
 authors = ["JunyaIto <ito.23571113@gmail.com>"]
 version = "0.1.0"
 
-[deps]
-LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
-
-[compat]
-LinearAlgebra = "1.11.0"
-
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
